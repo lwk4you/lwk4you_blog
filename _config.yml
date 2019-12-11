@@ -4,16 +4,17 @@
 
 # Site
 title: 刘伟康の博客
-subtitle: 111111111111111111111111111
+subtitle: 
 description: 刘伟康 博客 技术 Java
-keywords: 
+keywords: 个人博客
 author: lwk4you
 language: zh-CN
 timezone:
+avatar: http://p1.music.126.net/v9FG3CVqxHQGYzG98AiQNg==/18804947371894153.jpg?param=180y180
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://lwk4you.github.io
+url: http://www.lwk4you.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
